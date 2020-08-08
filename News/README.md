@@ -42,7 +42,7 @@ mẫu thu thập - collected example: giống mẫu phần thông tin thu thập
 
 ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/17yHcNh4lkwsEs1TY3_IPQECd-FhM9J7F/view?usp=drivesdk
 
-kết quả - output file : https://drive.google.com/file/d/1ycz9VzojO-QAaKoByI-gG\_fzRsxooqgz/view?usp=sharing
+kết quả - output file : https://drive.google.com/file/d/1ycz9VzojO-QAaKoByI-gG_fzRsxooqgz/view?usp=drivesdk
 
 1.3. **phương pháp thu thập - collecting method**
 
