@@ -40,7 +40,7 @@ thời gian thu thập (đã bị giới hạn) - collecting time (limited by me
 
 mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes &#39;s one.
 
-ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/17yHcNh4lkwsEs1TY3\_IPQECd-FhM9J7F/view?usp=sharing
+ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/17yHcNh4lkwsEs1TY3_IPQECd-FhM9J7F/view?usp=drivesdk
 
 kết quả - output file : https://drive.google.com/file/d/1ycz9VzojO-QAaKoByI-gG\_fzRsxooqgz/view?usp=sharing
 
