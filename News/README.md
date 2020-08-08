@@ -17,7 +17,7 @@ I. nguồn Vietnamnet- Vietnamnet source (https://vietnamnet.vn/)
  2. tình trạng thu thập - collecting status
   đã xong - done.
   số lượng bài viết - collected articles : 23445. 
-  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): 1 tiếng - one hour.
+  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): khoảng 1 tiếng 40 phút - about one hour and 40 minutes.
   mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes 's one.
   ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/17yHcNh4lkwsEs1TY3_IPQECd-FhM9J7F/view?usp=sharing
   kết quả - output file : https://drive.google.com/file/d/1ycz9VzojO-QAaKoByI-gG_fzRsxooqgz/view?usp=sharing
@@ -47,7 +47,7 @@ II. nguồn Vnexpress- VNexpress source (https://vnexpress.vn/)
  2. tình trạng thu thập - collecting status
   đã xong - done.
   số lượng bài viết - collected articles : 29148. 
-  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): 1 tiếng - one hour.
+  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): khoảng 1 tiếng 40 phút - about one hour and 40 minutes.
   mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes 's one.
   ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/15kci40rxJcNJK1-N_oJn7gX_JTaVCAhU/view?usp=sharing
   kết quả - output file : https://drive.google.com/file/d/1SqePngXYBBF7ei69EjPQv-w8cWIAqg5Q/view?usp=sharing
@@ -76,7 +76,7 @@ III`. nguồn Baomoi- Baomoi source (https://baomoi.com/)
  2. tình trạng thu thập - collecting status
   đã xong - done.
   số lượng bài viết - collected articles : 2. 
-  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): 1 tiếng - one hour.
+  thời gian thu thập (đã bị giới hạn) - collecting time (limited by me): khoảng 1 tiếng 40 phút - about one hour and 40 minutes.
   mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes 's one.
   ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1ennDMU13yBeis1nxFfwT75IA32Z0iurc/view?usp=sharing
   kết quả - output file :https://drive.google.com/file/d/1RYcscIINe8Uesdf3Pq8sML_byfsKYrkQ/view?usp=sharing
@@ -108,7 +108,7 @@ IV. nguồn Foxnews- Foxnews source (https://foxnews.com/)
  2. tình trạng thu thập - collecting status
   đã xong - done.
   số lượng bài viết - collected articles : 17448. 
-  thời gian thu thập (không bị giới hạn) - collecting time (unlimited by me): 20 phút - 20 minutes.
+  thời gian thu thập (không bị giới hạn) - collecting time (unlimited by me): khoảng 1 tiếng 30 phút - about one hour and 30 minutes.
   mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes 's one.
   ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1fVg3Z0aG8vSlXS6mh2_McD9t4N3D4ZLL/view?usp=sharing
   kết quả - output file : https://drive.google.com/file/d/1hEFicPaGnqUtK9BDi0Zcu9-ZutRGBqKV/view?usp=sharing
