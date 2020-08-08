@@ -32,7 +32,7 @@ Thời gian thu thập – collecting time: 1 tiếng - 1 hour
 
 [**ảnh chụp màn hình – screen caption**](https://drive.google.com/file/d/1pBOcAiRVkhBaauGfkHpKTi_5mgaTsW9U/view?usp=sharing)
 
-[**tệp kết quả - output file**](https://drive.google.com/file/d/1pBOcAiRVkhBaauGfkHpKTi_5mgaTsW9U/view?usp=sharing)
+[**tệp kết quả - output file**](https://drive.google.com/file/d/1SqePngXYBBF7ei69EjPQv-w8cWIAqg5Q/view?usp=drivesdk)
 
   1.3. **Phương pháp thu thập – collecting method**
 
