@@ -98,9 +98,9 @@ thời gian thu thập (đã bị giới hạn) - collecting time (limited by me
 
 mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes &#39;s one.
 
-ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/15kci40rxJcNJK1-N\_oJn7gX\_JTaVCAhU/view?usp=sharing
+ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/15kci40rxJcNJK1-N_oJn7gX_JTaVCAhU/view?usp=drivesdk
 
-kết quả - output file : https://drive.google.com/file/d/1SqePngXYBBF7ei69EjPQv-w8cWIAqg5Q/view?usp=sharing
+kết quả - output file : https://drive.google.com/file/d/1SqePngXYBBF7ei69EjPQv-w8cWIAqg5Q/view?usp=drivesdk
 
 2.3. **phương pháp thu thập - collecting method**
 
@@ -154,9 +154,9 @@ thời gian thu thập (đã bị giới hạn) - collecting time (limited by me
 
 mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes &#39;s one.
 
-ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1ennDMU13yBeis1nxFfwT75IA32Z0iurc/view?usp=sharing
+ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1ennDMU13yBeis1nxFfwT75IA32Z0iurc/view?usp=drivesdk
 
-kết quả - output file :https://drive.google.com/file/d/1RYcscIINe8Uesdf3Pq8sML\_byfsKYrkQ/view?usp=sharing
+kết quả - output file :https://drive.google.com/file/d/1RYcscIINe8Uesdf3Pq8sML_byfsKYrkQ/view?usp=drivesdk
 
 3.3. **phương pháp thu thập - collecting method**
 
@@ -216,9 +216,9 @@ thời gian thu thập (không bị giới hạn) - collecting time (unlimited b
 
 mẫu thu thập - collected example: giống mẫu phần thông tin thu thập - same as the collecting data itmes &#39;s one.
 
-ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1fVg3Z0aG8vSlXS6mh2\_McD9t4N3D4ZLL/view?usp=sharing
+ảnh chụp màn hình - sceen caption: https://drive.google.com/file/d/1fVg3Z0aG8vSlXS6mh2_McD9t4N3D4ZLL/view?usp=drivesdk
 
-kết quả - output file : https://drive.google.com/file/d/1hEFicPaGnqUtK9BDi0Zcu9-ZutRGBqKV/view?usp=sharing
+kết quả - output file : https://drive.google.com/file/d/1hEFicPaGnqUtK9BDi0Zcu9-ZutRGBqKV/view?usp=drivesdk
 
 4.3. **phương pháp thu thập - collecting method**
 
