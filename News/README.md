@@ -1,6 +1,7 @@
 # News
  bài tập thu thập báo - collecting news assignment
- I. nguồn Vietnamnet- Vietnamnet source (https://vietnamnet.vn/)
+ 
+I. nguồn Vietnamnet- Vietnamnet source (https://vietnamnet.vn/)
  1. thông tin thu thập - collecting data items
     'url': link bài viết - link of the article,
     'id': id bài viết - ID of the article,
@@ -30,7 +31,7 @@
    tốc độ chậm và giảm dần do gặp lại các link bị trùng lặp - collecing speed is low and decreased by the time because repeated links
   
   
- II. nguồn Vnexpress- VNexpress source (https://vnexpress.vn/)
+II. nguồn Vnexpress- VNexpress source (https://vnexpress.vn/)
  1. thông tin thu thập - collecting data items
     'url': link bài viết - link of the article,
     'id': id bài viết - ID of the article,
@@ -60,7 +61,7 @@
    tốc độ chậm và giảm dần do gặp lại các link bị trùng lặp - collecing speed is low and decreased by the time because repeated links
   
   
- III`. nguồn Baomoi- Baomoi source (https://baomoi.com/)
+III`. nguồn Baomoi- Baomoi source (https://baomoi.com/)
  1. thông tin thu thập - collecting data items
     'url': link bài viết - link of the article,
     'id': id bài viết - ID of the article,
@@ -92,7 +93,7 @@
    em chưa quen với phương pháp này, nên các bài sau em đều sử dụng phương pháp lan link - I have not get used to this method yet, so in other assignments, I do not use this method.
    
    
- IV. nguồn Foxnews- Foxnews source (https://foxnews.com/)
+IV. nguồn Foxnews- Foxnews source (https://foxnews.com/)
  1. thông tin thu thập - collecting data items
     'url': link bài viết - link of the article,
     'cate': danh mục - category,
