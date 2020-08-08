@@ -87,6 +87,7 @@ tốc độ chậm và giảm dần do gặp lại các link bị trùng lặp -
 \*mấu - example:
 
 {"url": "https://vnexpress.net/tp-hcm-lam-viec-voi-ca-si-duy-manh-4142549.html", "id": "4142549", "cate": "Th..", "title": "TP HCM ...nh", "lead": "Ca ...c.", "content_text": ["\"Sá..ng,", "..."], "time": Thứ Năm, 6/8/2020, 20:54 (GMT+7)", "image": [], "tag": ["ca s..c", " TP HCM ..nh", " ca ..nh", " V..a", " l..", " Tin n..g", " Tin"]}
+
 2.2. **tình trạng thu thập - collecting status**
 
 đã xong - done.
