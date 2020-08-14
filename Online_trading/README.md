@@ -73,9 +73,11 @@ Thời gian thu thập – collecting time: 20 phút – 20 minutes
 
   2.3. **Phương pháp thu thập – collecting method**
 
-lan bài theo đường dẫn có sẵn trong bài viết - using the available links in curent page to get the next article.
+lấy link bằng theo id trang - get next link by the next id
 
   2.4. **Đánh giá, vướng mắc – comments, problems**
+
+Sử dụng lấy link theo id trang cho kết quả nhanh - the crawling speed is significanly fast
 
 Sử dụng user agent – using use agent
 
